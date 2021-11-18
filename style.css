@@ -1,0 +1,29 @@
+body{
+    background-size:cover;
+    background-position:center;
+}
+
+#heading{
+    margin-top:10px;
+    width:80%;
+    background-color:black;
+    padding:20px;
+    border-radius:75px;
+    color:white;
+}
+
+.a{
+    background-color:black;
+    padding:20px;
+    margin-top:30px;
+    text-align:center;
+    box-shadow:5px 5px 5px black;
+    border-radius:20px;
+    width:50%;
+}
+
+.d{
+    background-color:black;
+    width:50%;
+    
+}
